@@ -23,6 +23,10 @@ public class test_1 {
 		
 		//print out the final account balance;
 		System.out.println("The account has a balace of" + account.getBalance());
+		System.out.println("");
+		System.out.println("");
+		
+		System.out.println("the first time to update ¹þ¹þ so cool!");
 	}
 	
 }
